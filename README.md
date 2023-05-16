@@ -6,7 +6,7 @@ A new Flutter project.
 
 
 
-<img src="https://github.com/userkrunal/ott_platform/assets/120082312/50a39114-518c-4ddd-b1ef-6a824690b4ef"  width="200" height="500">
+<img src="https://github.com/userkrunal/ott_platform/assets/120082312/50a39114-518c-4ddd-b1ef-6a824690b4ef"  width="300" height="500">
 
 <img src="https://github.com/userkrunal/ott_platform/assets/120082312/4a7e6310-3c21-4cca-bf45-84251b54d872"  width="200" height="400">
 
