@@ -12,7 +12,7 @@ A new Flutter project.
 
 <img src="https://github.com/userkrunal/ott_platform/assets/120082312/ac093513-e653-48ff-be53-5c2f95fe87d9"  width="200" height="400">
 
-<img src="https://github.com/userkrunal/ott_platform/assets/120082312/3c136d42-c4d0-4e5a-acb9-b83efce57b56"  width="200" height="400">
+<img src="https://github.com/userbhavin/ott_platform/assets/120082312/3c136d42-c4d0-4e5a-acb9-b83efce57b56"  width="200" height="400">
 
 
 
